@@ -1,6 +1,7 @@
 ### Hello, World! 🧙‍♂️
 
 - 🔭 Estou trabalhando como técnico em informática!
+- 💻 Análise e Desenvolvimento de Sistemas (1/5)
 - ⚡ Fun fact: Sou Cozinheiro e técnico em informática e almejo me tornar um desenvolvedor Front-End!
 
 <br>
@@ -27,7 +28,7 @@
 ### Para entrar em contato comigo:
 
 <div> 
- <a target="_blank" href="https://www.instagram.com/lucas_lionv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
- <a target="_blank" href="https://www.linkedin.com/in/lucas-lion-122b15189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a target="_blank" href = "mailto:lucaslion350@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/lucas_lionv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/lucas-lion-122b15189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:lucaslion350@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
