@@ -1,8 +1,8 @@
 ### Hello, World! 🧙‍♂️
 
 - 🔭 Estou trabalhando como técnico em informática!
-- 💻 Análise e Desenvolvimento de Sistemas (1/5)
-- ⚡ Fun fact: Sou Cozinheiro e técnico em informática e almejo me tornar um desenvolvedor Front-End!
+- 💻 Análise e Desenvolvimento de Sistemas (2/5)
+- ⚡: Sou Cozinheiro e técnico em informática e almejo me tornar um desenvolvedor Front-End!
 
 <br>
 
