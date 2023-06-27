@@ -9,7 +9,7 @@
 
 <hr>
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/Lucas-Lion">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Lion&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lion&layout=compact&langs_count=7&theme=calm"/>
@@ -22,6 +22,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php.svg">
 </div>
 
 <br>
