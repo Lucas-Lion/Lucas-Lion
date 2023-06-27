@@ -9,6 +9,12 @@
 
 <hr>
 
+<div align="center">
+  <a href="https://github.com/Lucas-Lion">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Lion&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lion&layout=compact&langs_count=7&theme=calm"/>
+</div>
+
 ### O que estou aprendendo:
 
 <div style="display: inline_block"><br>
