@@ -2,7 +2,8 @@
 
 - 🔭 Estou trabalhando como técnico em informática!
 - 💻 Análise e Desenvolvimento de Sistemas (2/5)
-- ⚡: Sou Cozinheiro e técnico em informática e almejo me tornar um desenvolvedor Front-End!
+  
+Sou técnico em informática e almejo me tornar um desenvolvedor Front-End!
 
 <br>
 
