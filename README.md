@@ -1,9 +1,9 @@
 ### Hello, World! 🧙‍♂️
 
-- 🔭 Estou trabalhando como técnico em informática!
+- 🔭 Estou trabalhando como Analista de Sistemas!
 - 💻 Análise e Desenvolvimento de Sistemas (2/5)
   
-Sou técnico em informática e almejo me tornar um desenvolvedor Fullstack!
+Almejo me tornar um desenvolvedor Fullstack!
 
 <br>
 
@@ -25,6 +25,7 @@ Sou técnico em informática e almejo me tornar um desenvolvedor Fullstack!
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 <br>
