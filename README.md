@@ -3,7 +3,7 @@
 - 🔭 Estou trabalhando como Analista de Sistemas!
 - 💻 Análise e Desenvolvimento de Sistemas (2/5)
   
-Almejo me tornar um desenvolvedor Fullstack!
+Almejo me tornar um desenvolvedor Front-End!
 
 <br>
 
