@@ -25,11 +25,13 @@ Almejo me tornar um desenvolvedor Front-End!
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
+<br>
+
 ### O que estou aprendendo:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="Type Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/type-script/type-script.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular.svg">
+  <img align="center" alt="Type Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/type-script/ts.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
