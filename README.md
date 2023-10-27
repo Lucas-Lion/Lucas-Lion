@@ -16,13 +16,20 @@ Almejo me tornar um desenvolvedor Front-End!
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lion&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### O que estou aprendendo:
+### Tecnologias:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+</div>
+
+### O que estou aprendendo:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Type Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/type-script/type-script.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
