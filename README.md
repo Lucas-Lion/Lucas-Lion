@@ -4,7 +4,7 @@ Sou Lucas Lion, Analista de Sistemas em busca de crescimento constante e aprendi
 
 🔭 Atualmente, estou trabalhando como Analista de Sistemas, mergulhando em projetos e buscando soluções inovadoras.
 
-💻 Possuo formação em Análise e Desenvolvimento de Sistemas (2/5) e estou em busca de me aprimorar para me tornar um desenvolvedor Front-End!
+💻 Estou me graduando em Análise e Desenvolvimento de Sistemas (3/5) e estou em busca de me aprimorar para me tornar um desenvolvedor Front-End!
 
 <br>
 
