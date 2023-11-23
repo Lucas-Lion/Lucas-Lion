@@ -1,9 +1,10 @@
 ### Hello, World! 🧙‍♂️
 
-- 🔭 Estou trabalhando como Analista de Sistemas!
-- 💻 Análise e Desenvolvimento de Sistemas (2/5)
-  
-Almejo me tornar um desenvolvedor Front-End!
+Sou Lucas Lion, Analista de Sistemas em busca de crescimento constante e aprendizado no mundo do desenvolvimento de software!
+
+🔭 Atualmente, estou trabalhando como Analista de Sistemas, mergulhando em projetos e buscando soluções inovadoras.
+
+💻 Possuo formação em Análise e Desenvolvimento de Sistemas (2/5) e estou em busca de me aprimorar para me tornar um desenvolvedor Front-End!
 
 <br>
 
@@ -29,6 +30,8 @@ Almejo me tornar um desenvolvedor Front-End!
 
 ### O que estou aprendendo:
 
+Estou ampliando meu conhecimento em tecnologias mais avançadas para aprimorar minhas habilidades:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -39,6 +42,8 @@ Almejo me tornar um desenvolvedor Front-End!
 <br>
 
 ### Para entrar em contato comigo:
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos ou apenas para uma conversa amigável!
 
 <div> 
  <a href="https://www.instagram.com/lucas_lionv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
