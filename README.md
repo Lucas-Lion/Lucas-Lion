@@ -2,9 +2,9 @@
 
 Sou Lucas Lion, Analista de Sistemas em busca de crescimento constante e aprendizado no mundo do desenvolvimento de software!
 
-🔭 Atualmente, estou trabalhando como desenvolvedor Front End júnior, mergulhando em projetos e buscando soluções inovadoras.
+🔭 Atualmente, estou trabalhando como desenvolvedor Full-Stack júnior, mergulhando em projetos e buscando soluções inovadoras.
 
-💻 Estou me graduando em Engenharia de Software (3/8) e estou em busca de me aprimorar para me tornar um desenvolvedor Fullstack!
+💻 Estou me graduando em Engenharia de Software (4/8) e estou em busca de me aprimorar para me tornar um desenvolvedor Fullstack!
 
 <br>
 
