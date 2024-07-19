@@ -30,7 +30,7 @@ Sou Lucas Lion, Analista de Sistemas em busca de crescimento constante e aprendi
 
 #### Back-end:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Livewire" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-plain.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
