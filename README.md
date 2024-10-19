@@ -1,10 +1,9 @@
-### Hello, World! 🧙‍♂️
+### Hello, World! 🌍
 
-Sou Lucas Lion, Analista de Sistemas em busca de crescimento constante e aprendizado no mundo do desenvolvimento de software!
+I'm **Lucas Lion**, a **System Analyst** passionate about constant growth and learning in the software development world! 🚀
 
-🔭 Atualmente, estou trabalhando como desenvolvedor Full-Stack júnior, mergulhando em projetos e buscando soluções inovadoras.
-
-💻 Estou me graduando em Análise e Desenvolvimento de Sistemas (4/5) e estou em busca de me aprimorar para me tornar um desenvolvedor Fullstack!
+🔭 Currently working as a **Junior Full-Stack Developer**, diving into projects, and seeking innovative solutions to complex problems.  
+💻 I'm in the final stages of my **Software Engineering degree (4/8)**, continuously sharpening my skills to become a top-notch Full-Stack Developer.
 
 <br>
 
@@ -16,7 +15,7 @@ Sou Lucas Lion, Analista de Sistemas em busca de crescimento constante e aprendi
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lion&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### Tecnologias:
+### 🚀 Technologies & Tools:
 
 #### Front-end:
 <div style="display: inline_block"><br>
@@ -36,13 +35,14 @@ Sou Lucas Lion, Analista de Sistemas em busca de crescimento constante e aprendi
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
 <br>
 
-### Para entrar em contato comigo:
+### 📬 Get in Touch:
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos ou apenas para uma conversa amigável!
+Feel free to reach out to me for collaborations, projects, or just to have a friendly chat!
 
 <div> 
  <a href="https://www.instagram.com/lucas_lionv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
