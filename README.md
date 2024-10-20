@@ -1,9 +1,7 @@
-<h1>Hi, I'm Lucas Lion 👋</h1>
+<h1>Hi, I'm Lucas Lion 🧑🏽‍💻</h1>
 
-<p>Full-Stack Developer passionate about turning ideas into functional and inclusive digital solutions. With a solid background in complex projects and a continuous drive for learning, I'm focused on creating technology that makes a difference.</p>
-
-<br>
-
+<p>Full-Stack Developer passionate about turning ideas into functional and inclusive digital solutions. With a solid background in complex projects and a continuous drive for learning, I'm focused on creating technology that makes a difference. I aim to further my career as a developer in England, contributing to innovative projects in a global environment. <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="30" height="20"> <img src="https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg" alt="England Flag" width="30" height="20">
+  
 <h2>🌐 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/lucas-lion-122b15189/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -14,38 +12,38 @@
 
 <br>
 
-<h2>👨‍💻 About me</h2>
+<h2>🧑🏽‍💻 About me</h2>
 
 <p>
-💼 <strong>Current position:</strong> Junior Full-Stack Developer at <i>[Your Company]</i>  
-🎯 <strong>Focus:</strong> Full-stack web development, specializing in PHP, Laravel, and Docker. Always striving to improve accessibility and usability in every project.  
-🌱 <strong>Continuous Learning:</strong> Exploring new technologies and agile approaches to optimize processes and deliver high-quality products.  
-🎨 <strong>Interests:</strong> Best development practices, sharing knowledge, back-end development, UX/UI design, accessibility, and contributing to open-source projects.
+💼 <strong>Current position:</strong> Junior Full-Stack Developer at <i>Avansys Tecnologia</i>  <br> </br>
+🎯 <strong>Focus:</strong> Full-stack web development, specializing in PHP, Laravel, and Docker. Always striving to improve accessibility and usability in every project.  <br> </br>
+🌱 <strong>Continuous Learning:</strong> Exploring new technologies and agile approaches to optimize processes and deliver high-quality products.  <br> </br>
+🎨 <strong>Interests:</strong> Best development practices, sharing knowledge, back-end development, UX/UI design, accessibility, and contributing to open-source projects. <br> </br>
 </p>
-
-<br>
 
 <h2>💼 Experience</h2>
 
-<h3>👨‍💻 Junior Full-Stack Developer</h3>
+<h3>🧑🏽‍💻 IT Technical Assistant</h3>
 <p>
-📆 March 2023 - Present  
-📍 <i>[Your Company]</i> - Brazil  
+📆 April 2022 - April 2024  
+📍 <i>Fundação Luís Eduardo Magalhães</i> - Brazil  </br> </br>
 <strong>Contributions:</strong>
 <ul>
-  <li>Collaborating in building efficient, scalable web applications.</li>
-  <li>Maintaining high standards for code quality, performance, and user experience.</li>
+  <li>Active collaboration as a front-end developer, following established guidelines and using Jira for efficient project management, in addition to creating responsive web applications, such as intranet and contact management systems.</li>
+  <li>Versioning management with standardization of commits and creation of branches, ensuring continuous refactoring for code maintenance and quality.</li>
+  <li>Acquisition of skills in integrating APIs in the front-end layer, improving the user experience, and implementing unit tests with Jest and RxJs to ensure code robustness and quality.</li>
 </ul>
 </p>
 
-<h3>👨‍💻 PHP Developer</h3>
+<h3>🧑🏽‍💻 Junior Systems Analyst</h3>
 <p>
-📆 June 2021 - March 2023  
-📍 <i>[Previous Company]</i> - Brazil  
+📆 April 2024 - currently  
+📍 <i>Avansys Tecnologia</i> - Brazil  </br> </br>
 <strong>Contributions:</strong>
 <ul>
-  <li>Developed back-end systems with PHP and Laravel.</li>
-  <li>Ensured code reusability and optimized database queries for performance.</li>
+  <li>Working with Laravel, Livewire, Angular and Docker to maintain existing systems and create new functionalities, ensuring the continuous evolution of the platforms.</li>
+  <li>Development of robust APIs and database modeling using PostgreSQL, MongoDB and Docker, ensuring the efficiency and integrity of data in the systems.</li>
+  <li>Implementation of unit tests to ensure code reliability, using good practices and standards to ensure the quality and scalability of projects.</li>
 </ul>
 </p>
 
