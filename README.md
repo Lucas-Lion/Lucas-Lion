@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lucas Lion 🧑🏽‍💻</h1>
+<h1>Greetings, I'm Lucas Lion 🧑🏽‍💻</h1>
 
 <p>Full-Stack Developer passionate about turning ideas into functional and inclusive digital solutions. With a solid background in complex projects and a continuous drive for learning, I'm focused on creating technology that makes a difference. I aim to further my career as a developer in England, contributing to innovative projects in a global environment. <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="30" height="20"> <img src="https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg" alt="England Flag" width="30" height="20">
   
