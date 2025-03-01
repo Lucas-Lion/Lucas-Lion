@@ -38,7 +38,7 @@
 <h3>🧑🏽‍💻 Junior Systems Analyst</h3>
 <p>
 📆 April 2024 - currently  
-📍 <i>Avansys Tecnologia</i> - Brazil  </br> </br>
+📍 <i>Netra Tecnologia</i> - Brazil  </br> </br>
 <strong>Contributions:</strong>
 <ul>
   <li>Working with Laravel, Livewire, Angular and Docker to maintain existing systems and create new functionalities, ensuring the continuous evolution of the platforms.</li>
