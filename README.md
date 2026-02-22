@@ -80,12 +80,14 @@
   <tr>
     <td>
      <a href="https://github.com/Lucas-Lion">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Lion&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="160em"
+     src="https://github-readme-stats.vercel.app/api?username=Lucas-Lion&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=1"/>
      </a>
     </td>
     <td>
       <a href="https://github.com/Lucas-Lion">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lion&layout=compact&langs_count=7&theme=dark"/>
+        <img height="160em"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lion&layout=compact&langs_count=7&theme=dark&v=1"/>
       </a>
     </td>
   </tr>
