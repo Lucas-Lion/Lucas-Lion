@@ -70,25 +70,3 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
-
-<h2>📊 GitHub Stats</h2>
-<table>
-  <tr>
-    <th>Programming Time</th>
-    <th>Main Technologies</th>
-  </tr>
-  <tr>
-    <td>
-     <a href="https://github.com/Lucas-Lion">
-      <img height="160em"
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lucas-Lion&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-     </a>
-    </td>
-    <td>
-      <a href="https://github.com/Lucas-Lion">
-        <img height="160em"
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucas-Lion&layout=compact&langs_count=7&theme=dark"/>
-      </a>
-    </td>
-  </tr>
-</table>
